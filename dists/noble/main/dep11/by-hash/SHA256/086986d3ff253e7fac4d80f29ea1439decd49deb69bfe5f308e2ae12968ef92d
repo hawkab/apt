@@ -1,0 +1,480 @@
+---
+File: DEP-11
+Version: '1.0'
+Origin: hawkab-noble-main
+---
+Type: desktop-application
+ID: io.github.hawkab.UbuntuDockFolders.desktop
+Package: ubuntu-dock-folders
+ProjectLicense: GPL-3.0-or-later
+Name:
+  C: Ubuntu Dock Folders
+Summary:
+  ro: Dosare de aplicații, aspect și animație
+  es: Carpetas de aplicaciones, aspecto y animación
+  sv: Programmappar, utseende och animering
+  ur: ایپ کے فولڈر، ظاہری شکل اور اینیمیشن
+  bn: অ্যাপের ফোল্ডার, চেহারা ও অ্যানিমেশন
+  gu: એપ ફોલ્ડર, દેખાવ અને એનિમેશન
+  pt: Pastas de aplicações, aparência e animação
+  ml: ആപ്പ് ഫോൾഡറുകൾ, രൂപവും ആനിമേഷനും
+  it: Cartelle delle applicazioni, aspetto e animazione
+  ta: செயலி கோப்புறைகள், தோற்றம் மற்றும் அசைவூட்டம்
+  tr: Uygulama klasörleri, görünüm ve animasyon
+  de: Anwendungsordner, Darstellung und Animation
+  fr: Dossiers d’applications, apparence et animation
+  uk: Теки застосунків, вигляд і анімація
+  mr: अॅप फोल्डर, दिसणे आणि अॅनिमेशन
+  pa: ਐਪ ਫੋਲਡਰ, ਦਿੱਖ ਅਤੇ ਐਨੀਮੇਸ਼ਨ
+  kn: ಅನ್ವಯಗಳ ಫೋಲ್ಡರ್‌ಗಳು, ನೋಟ ಮತ್ತು ಅನಿಮೇಶನ್
+  el: Φάκελοι εφαρμογών, εμφάνιση και κίνηση
+  C: Group Ubuntu Dock applications into folders
+  cs: Složky aplikací, vzhled a animace
+  hi: ऐप फ़ोल्डर, रूप और एनिमेशन
+  pl: Foldery aplikacji, wygląd i animacja
+  ms: Folder aplikasi, rupa dan animasi
+  te: అనువర్తన ఫోల్డర్లు, రూపం మరియు యానిమేషన్
+  or: ଆପ୍ ଫୋଲ୍ଡର୍, ଦୃଶ୍ୟ ଓ ଆନିମେସନ୍
+  ar: مجلدات التطبيقات والمظهر والحركة
+  hu: Alkalmazásmappák, megjelenés és animáció
+  zh: 应用文件夹、外观和动画
+  nl: Toepassingsmappen, uiterlijk en animatie
+  ru: Папки приложений, оформление и анимация
+Description:
+  ro: >-
+    <p>Trageți o pictogramă peste alta pentru a crea un dosar. Reordonați aplicațiile în dosar sau trageți-le în afară pentru
+    a le muta înapoi în dock.</p>
+
+    <p>Aplicațiile dintr-un dosar au o pictogramă și un indicator de rulare comune</p>
+
+    <p>Schimbați numele, etichetele, culorile și imaginea de fundal folosind rotița din dosar</p>
+  es: >-
+    <p>Arrastra un icono sobre otro para crear una carpeta. Reordena las aplicaciones dentro de ella o arrástralas fuera para
+    devolverlas al dock.</p>
+
+    <p>Las aplicaciones de una carpeta comparten un icono y un indicador de ejecución</p>
+
+    <p>Cambia el nombre, las etiquetas, los colores y el fondo desde el engranaje de la carpeta</p>
+  sv: >-
+    <p>Dra en ikon till en annan för att skapa en mapp. Ändra ordningen på programmen i mappen eller dra ut dem för att flytta
+    tillbaka dem till dockan.</p>
+
+    <p>Program i en mapp delar en ikon och en indikator för körande program</p>
+
+    <p>Ändra namn, etiketter, färger och bakgrund med kugghjulet i mappen</p>
+  ur: >-
+    <p>فولڈر بنانے کے لیے ایک آئیکن دوسرے پر گھسیٹیں۔ فولڈر میں ایپس کی ترتیب بدلیں یا انہیں باہر گھسیٹ کر ڈاک پر واپس لائیں۔</p>
+
+    <p>فولڈر کی ایپس ایک آئیکن اور چلنے کا اشارہ مشترکہ طور پر استعمال کرتی ہیں</p>
+
+    <p>فولڈر کے اندر گیئر سے نام، لیبل، رنگ اور وال پیپر تبدیل کریں</p>
+  bn: >-
+    <p>ফোল্ডার তৈরি করতে একটি আইকন অন্যটির ওপর টেনে আনুন। ফোল্ডারের অ্যাপগুলোর ক্রম বদলান অথবা বাইরে টেনে ডকে ফিরিয়ে আনুন।</p>
+
+    <p>ফোল্ডারের অ্যাপগুলো একটি আইকন ও চলার সূচক ভাগ করে</p>
+
+    <p>ফোল্ডারের ভেতরের গিয়ার দিয়ে নাম, লেবেল, রং ও ওয়ালপেপার বদলান</p>
+  gu: >-
+    <p>ફોલ્ડર બનાવવા એક ચિહ્નને બીજા પર ખેંચો. ફોલ્ડરની એપ્સનો ક્રમ બદલો અથવા તેમને બહાર ખેંચીને ડૉક પર પાછી લાવો.</p>
+
+    <p>ફોલ્ડરની એપ્સ એક જ ચિહ્ન અને ચાલવાનો સંકેત વાપરે છે</p>
+
+    <p>ફોલ્ડરના અંદરના ગિયરથી નામ, લેબલ, રંગ અને વૉલપેપર બદલો</p>
+  pt: >-
+    <p>Arraste um ícone sobre outro para criar uma pasta. Reordene as aplicações na pasta ou arraste-as para fora para as
+    devolver ao dock.</p>
+
+    <p>As aplicações numa pasta partilham um ícone e um indicador de execução</p>
+
+    <p>Altere nomes, legendas, cores e papel de parede com a engrenagem dentro da pasta</p>
+  ml: >-
+    <p>ഫോൾഡർ സൃഷ്ടിക്കാൻ ഒരു ഐക്കൺ മറ്റൊന്നിനു മുകളിലേക്ക് വലിച്ചിടുക. ഫോൾഡറിലെ ആപ്പുകളുടെ ക്രമം മാറ്റുക അല്ലെങ്കിൽ പുറത്തേക്ക്
+    വലിച്ച് ഡോക്കിലേക്ക് തിരികെ കൊണ്ടുവരിക.</p>
+
+    <p>ഫോൾഡറിലെ ആപ്പുകൾ ഒരേ ഐക്കണും പ്രവർത്തന സൂചകവും പങ്കിടുന്നു</p>
+
+    <p>ഫോൾഡറിനുള്ളിലെ ഗിയർ ഉപയോഗിച്ച് പേരുകൾ, ലേബലുകൾ, നിറങ്ങൾ, വാൾപേപ്പർ എന്നിവ മാറ്റുക</p>
+  it: >-
+    <p>Trascina un’icona su un’altra per creare una cartella. Riordina le applicazioni nella cartella oppure trascinale fuori
+    per riportarle nel dock.</p>
+
+    <p>Le applicazioni in una cartella condividono un’icona e un indicatore di esecuzione</p>
+
+    <p>Modifica nomi, etichette, colori e sfondo tramite l’ingranaggio nella cartella</p>
+  ta: >-
+    <p>கோப்புறையை உருவாக்க ஒரு சின்னத்தை மற்றொன்றின் மீது இழுக்கவும். கோப்புறையில் உள்ள செயலிகளின் வரிசையை மாற்றவும் அல்லது
+    அவற்றை வெளியே இழுத்து டாக்கிற்குத் திருப்பவும்.</p>
+
+    <p>கோப்புறையில் உள்ள செயலிகள் ஒரே சின்னத்தையும் இயங்கும் குறிகாட்டியையும் பகிர்கின்றன</p>
+
+    <p>கோப்புறையின் உள்ளே உள்ள பற்சக்கரம் மூலம் பெயர்கள், அடையாளங்கள், நிறங்கள் மற்றும் சுவர்ப்படத்தை மாற்றவும்</p>
+  tr: >-
+    <p>Klasör oluşturmak için bir simgeyi diğerinin üzerine sürükleyin. Klasördeki uygulamaları yeniden sıralayın veya dock’a
+    geri taşımak için dışarı sürükleyin.</p>
+
+    <p>Klasördeki uygulamalar tek bir simgeyi ve çalışma göstergesini paylaşır</p>
+
+    <p>Klasördeki dişli simgesinden adları, etiketleri, renkleri ve duvar kâğıdını değiştirin</p>
+  de: >-
+    <p>Ziehen Sie ein Symbol auf ein anderes, um einen Ordner zu erstellen. Ordnen Sie Anwendungen im Ordner neu an oder ziehen
+    Sie sie heraus, um sie wieder im Dock abzulegen.</p>
+
+    <p>Anwendungen in einem Ordner teilen ein Symbol und eine Laufanzeige</p>
+
+    <p>Namen, Beschriftungen, Farben und Hintergrundbilder über das Zahnrad im Ordner ändern</p>
+  fr: >-
+    <p>Glissez une icône sur une autre pour créer un dossier. Réorganisez les applications dans le dossier ou faites-les glisser
+    vers le dock pour les en retirer.</p>
+
+    <p>Les applications d’un dossier partagent une icône et un indicateur d’activité</p>
+
+    <p>Modifiez les noms, les libellés, les couleurs et le fond d’écran avec l’engrenage dans le dossier</p>
+  uk: >-
+    <p>Перетягніть піктограму на іншу, щоб створити теку. Змінюйте порядок застосунків усередині теки або перетягуйте їх назовні,
+    щоб повернути на панель.</p>
+
+    <p>Застосунки в теці мають спільну піктограму й індикатор роботи</p>
+
+    <p>Змінюйте назви, підписи, кольори й шпалери за допомогою шестерні всередині теки</p>
+  mr: >-
+    <p>फोल्डर तयार करण्यासाठी एक चिन्ह दुसऱ्यावर ओढा. फोल्डरमधील अॅप्सचा क्रम बदला किंवा त्यांना बाहेर ओढून डॉकवर परत आणा.</p>
+
+    <p>फोल्डरमधील अॅप्स एकच चिन्ह आणि चालू असल्याचा निर्देशक वापरतात</p>
+
+    <p>फोल्डरमधील गिअर वापरून नावे, लेबले, रंग आणि वॉलपेपर बदला</p>
+  pa: >-
+    <p>ਫੋਲਡਰ ਬਣਾਉਣ ਲਈ ਇੱਕ ਆਈਕਨ ਨੂੰ ਦੂਜੇ ਉੱਤੇ ਖਿੱਚੋ। ਫੋਲਡਰ ਵਿੱਚ ਐਪਾਂ ਦਾ ਕ੍ਰਮ ਬਦਲੋ ਜਾਂ ਉਹਨਾਂ ਨੂੰ ਬਾਹਰ ਖਿੱਚ ਕੇ ਡੌਕ ਉੱਤੇ ਵਾਪਸ
+    ਲਿਆਓ।</p>
+
+    <p>ਫੋਲਡਰ ਦੀਆਂ ਐਪਾਂ ਇੱਕੋ ਆਈਕਨ ਅਤੇ ਚੱਲਣ ਦਾ ਸੰਕੇਤ ਸਾਂਝਾ ਕਰਦੀਆਂ ਹਨ</p>
+
+    <p>ਫੋਲਡਰ ਅੰਦਰ ਗੀਅਰ ਨਾਲ ਨਾਂ, ਲੇਬਲ, ਰੰਗ ਅਤੇ ਵਾਲਪੇਪਰ ਬਦਲੋ</p>
+  kn: >-
+    <p>ಫೋಲ್ಡರ್ ರಚಿಸಲು ಒಂದು ಚಿಹ್ನೆಯನ್ನು ಮತ್ತೊಂದರ ಮೇಲೆ ಎಳೆಯಿರಿ. ಫೋಲ್ಡರ್‌ನ ಅನ್ವಯಗಳ ಕ್ರಮ ಬದಲಾಯಿಸಿ ಅಥವಾ ಅವುಗಳನ್ನು ಹೊರಗೆ ಎಳೆದು ಡಾಕ್‌ಗೆ
+    ಮರಳಿಸಿ.</p>
+
+    <p>ಫೋಲ್ಡರ್‌ನ ಅನ್ವಯಗಳು ಒಂದೇ ಚಿಹ್ನೆ ಮತ್ತು ಚಾಲನೆಯ ಸೂಚಕವನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತವೆ</p>
+
+    <p>ಫೋಲ್ಡರ್ ಒಳಗಿನ ಗೇರ್ ಮೂಲಕ ಹೆಸರುಗಳು, ಲೇಬಲ್‌ಗಳು, ಬಣ್ಣಗಳು ಮತ್ತು ವಾಲ್‌ಪೇಪರ್ ಬದಲಾಯಿಸಿ</p>
+  el: >-
+    <p>Σύρετε ένα εικονίδιο πάνω σε άλλο για να δημιουργήσετε φάκελο. Αλλάξτε τη σειρά των εφαρμογών μέσα στον φάκελο ή σύρετέ
+    τες έξω για να επιστρέψουν στο dock.</p>
+
+    <p>Οι εφαρμογές ενός φακέλου μοιράζονται ένα εικονίδιο και μια ένδειξη εκτέλεσης</p>
+
+    <p>Αλλάξτε ονόματα, ετικέτες, χρώματα και ταπετσαρία με το γρανάζι μέσα στον φάκελο</p>
+  C: >-
+    <p>Organize Ubuntu Dock with application folders. Drag one icon onto another to create a folder, reorder its applications,
+    or drag them back to the dock. Folders show real application icons and a shared running indicator.</p>
+
+    <p>Customize each folder with a name, colors, transparency and wallpaper. Choose scale or genie animations, and optionally
+    enable frosted glass with a blurred background. The interface follows your system language.</p>
+
+    <p>Pin existing GNOME app-grid folders and synchronize their names and applications. Hover over an application inside
+    a folder to preview, activate or close its windows. Running indicators appear when windows open, including during application
+    startup. Undo the last grouping move from its notification, the folder header or Ctrl+Z.</p>
+
+    <p>Designed for desktop and laptop computers running Ubuntu 24.04 with GNOME Shell 46 and Ubuntu Dock. Keyboard, mouse
+    and touch input are supported. This is a GNOME desktop extension; Android and iOS are not supported. After installation,
+    enable the extension for your desktop account and log out and back in. The optional Settings integration adds Dock folders
+    to Ubuntu Desktop settings.</p>
+  cs: >-
+    <p>Přetažením ikony na jinou vytvoříte složku. Změňte pořadí aplikací ve složce nebo je přetáhněte ven a vraťte je do
+    doku.</p>
+
+    <p>Aplikace ve složce sdílejí jednu ikonu a indikátor spuštění</p>
+
+    <p>Názvy, popisky, barvy a tapetu změníte pomocí ozubeného kola ve složce</p>
+  hi: >-
+    <p>फ़ोल्डर बनाने के लिए एक आइकन को दूसरे पर खींचें। फ़ोल्डर में ऐप का क्रम बदलें या उन्हें बाहर खींचकर डॉक पर वापस लाएँ।</p>
+
+    <p>फ़ोल्डर के ऐप एक ही आइकन और चलने का संकेत साझा करते हैं</p>
+
+    <p>फ़ोल्डर के अंदर गियर से नाम, लेबल, रंग और वॉलपेपर बदलें</p>
+  pl: >-
+    <p>Przeciągnij ikonę na inną, aby utworzyć folder. Zmieniaj kolejność aplikacji w folderze lub przeciągaj je na zewnątrz,
+    aby przenieść je z powrotem do doku.</p>
+
+    <p>Aplikacje w folderze mają wspólną ikonę i wskaźnik działania</p>
+
+    <p>Zmieniaj nazwy, podpisy, kolory i tapetę za pomocą koła zębatego w folderze</p>
+  ms: >-
+    <p>Seret ikon ke atas ikon lain untuk mencipta folder. Susun semula aplikasi dalam folder atau seretnya keluar untuk mengembalikannya
+    ke dok.</p>
+
+    <p>Aplikasi dalam folder berkongsi satu ikon dan penunjuk aplikasi berjalan</p>
+
+    <p>Ubah nama, label, warna dan kertas dinding menggunakan ikon gear dalam folder</p>
+  te: >-
+    <p>ఫోల్డర్ సృష్టించడానికి ఒక చిహ్నాన్ని మరొకదానిపైకి లాగండి. ఫోల్డర్‌లోని అనువర్తనాల క్రమాన్ని మార్చండి లేదా వాటిని బయటకు
+    లాగి డాక్‌కు తిరిగి తరలించండి.</p>
+
+    <p>ఫోల్డర్‌లోని అనువర్తనాలు ఒకే చిహ్నాన్ని, అమలు సూచికను పంచుకుంటాయి</p>
+
+    <p>ఫోల్డర్‌లోని గేర్ ద్వారా పేర్లు, లేబుళ్లు, రంగులు, వాల్‌పేపర్ మార్చండి</p>
+  or: >-
+    <p>ଫୋଲ୍ଡର୍ ତିଆରି କରିବାକୁ ଗୋଟିଏ ଆଇକନ୍‌କୁ ଅନ୍ୟଟି ଉପରକୁ ଟାଣନ୍ତୁ। ଫୋଲ୍ଡର୍‌ରେ ଆପ୍‌ର କ୍ରମ ବଦଳାନ୍ତୁ କିମ୍ବା ବାହାରକୁ ଟାଣି ଡକ୍‌କୁ
+    ଫେରାନ୍ତୁ।</p>
+
+    <p>ଫୋଲ୍ଡର୍‌ର ଆପ୍‌ଗୁଡ଼ିକ ଗୋଟିଏ ଆଇକନ୍ ଓ ଚାଲୁଥିବା ସୂଚକ ବ୍ୟବହାର କରନ୍ତି</p>
+
+    <p>ଫୋଲ୍ଡର୍ ଭିତରର ଗିଅର୍ ଦ୍ୱାରା ନାମ, ଲେବଲ୍, ରଙ୍ଗ ଓ ୱାଲପେପର୍ ବଦଳାନ୍ତୁ</p>
+  ar: >-
+    <p>اسحب أيقونة فوق أخرى لإنشاء مجلد. أعد ترتيب التطبيقات داخل المجلد، أو اسحبها خارجه لإعادتها إلى الشريط.</p>
+
+    <p>تشترك تطبيقات المجلد في أيقونة واحدة ومؤشر تشغيل</p>
+
+    <p>غيّر الأسماء والتسميات والألوان وصورة الخلفية من زر الترس داخل المجلد</p>
+  hu: >-
+    <p>Mappa létrehozásához húzzon egy ikont egy másikra. Rendezze át az alkalmazásokat a mappában, vagy húzza ki őket, hogy
+    visszakerüljenek a dokkra.</p>
+
+    <p>A mappában lévő alkalmazások közös ikont és futásjelzőt használnak</p>
+
+    <p>A mappában lévő fogaskerékkel módosíthatja a neveket, feliratokat, színeket és háttérképet</p>
+  zh: >-
+    <p>将一个图标拖到另一个图标上即可创建文件夹。可在文件夹内调整应用顺序，也可将应用拖出并放回程序坞。</p>
+
+    <p>文件夹中的应用共用一个图标和运行指示器</p>
+
+    <p>通过文件夹中的齿轮修改名称、标签、颜色和壁纸</p>
+  nl: >-
+    <p>Sleep een pictogram op een ander om een map te maken. Wijzig de volgorde van toepassingen in de map of sleep ze eruit
+    om ze terug naar het dock te verplaatsen.</p>
+
+    <p>Toepassingen in een map delen één pictogram en een activiteitsindicator</p>
+
+    <p>Wijzig namen, labels, kleuren en achtergrond via het tandwiel in de map</p>
+  ru: >-
+    <p>Перетащите значок на другой, чтобы создать папку. Меняйте порядок приложений внутри папки или перетаскивайте их наружу,
+    чтобы вернуть на панель.</p>
+
+    <p>Приложения в папке используют один значок с индикатором запуска</p>
+
+    <p>Название, подпись, цвета и обои — через шестерёнку внутри папки</p>
+Developer:
+  id: io.github.hawkab
+  name:
+    C: Grigory Olshansky
+Categories:
+- Settings
+- DesktopSettings
+Keywords:
+  C:
+  - dock
+  - folders
+  - grouping
+  - applications
+Url:
+  homepage: https://github.com/hawkab/ubuntu-dock-folders
+  bugtracker: https://github.com/hawkab/ubuntu-dock-folders/issues
+  donation: https://hawkab.github.io/support/
+Icon:
+  cached:
+  - name: io.github.hawkab.UbuntuDockFolders.desktop.png
+    width: 48
+    height: 48
+  - name: io.github.hawkab.UbuntuDockFolders.desktop.png
+    width: 64
+    height: 64
+  - name: io.github.hawkab.UbuntuDockFolders.desktop.png
+    width: 64
+    height: 64
+    scale: 2
+  - name: io.github.hawkab.UbuntuDockFolders.desktop.png
+    width: 128
+    height: 128
+  - name: io.github.hawkab.UbuntuDockFolders.desktop.png
+    width: 128
+    height: 128
+    scale: 2
+  stock: io.github.hawkab.UbuntuDockFolders
+Launchable:
+  desktop-id:
+  - io.github.hawkab.UbuntuDockFolders.desktop
+Supports:
+- control: keyboard
+- control: pointing
+- control: touch
+Provides:
+  ids:
+  - dock-groups@local
+Screenshots:
+- default: true
+  caption:
+    C: Application folders on Ubuntu Dock
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/screenshot.png
+    width: 832
+    height: 468
+- caption:
+    C: Create a folder by dragging icons, then open and close it
+  videos:
+  - codec: vp9
+    container: webm
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/demo.webm
+    width: 832
+    height: 468
+- caption:
+    C: Dock folders entry highlighted in Ubuntu Desktop settings
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/ubuntu-settings.png
+    width: 1440
+    height: 900
+- caption:
+    C: Grouping, Material Glass, animation and label size
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/general-settings.png
+    width: 1440
+    height: 900
+- caption:
+    C: Folder name, dock color, transparency and label
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/folder-settings-dock.png
+    width: 1440
+    height: 900
+- caption:
+    C: Open folder color, glass tint transparency and wallpaper
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/folder-settings-open.png
+    width: 1440
+    height: 900
+- caption:
+    C: Pin and synchronize an existing GNOME application-grid folder
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/app-grid-folders.png
+    width: 1440
+    height: 900
+- caption:
+    C: Hover over an application to preview, activate and close its windows
+  thumbnails: []
+  source-image:
+    url: https://raw.githubusercontent.com/hawkab/ubuntu-dock-folders/main/docs/window-previews.png
+    width: 1440
+    height: 900
+Languages:
+- locale: ar
+  percentage: 100
+- locale: bn
+  percentage: 100
+- locale: cs
+  percentage: 100
+- locale: de
+  percentage: 100
+- locale: el
+  percentage: 100
+- locale: en
+  percentage: 100
+- locale: en_US
+  percentage: 100
+- locale: es
+  percentage: 100
+- locale: fr
+  percentage: 100
+- locale: gu
+  percentage: 100
+- locale: hi
+  percentage: 100
+- locale: hu
+  percentage: 100
+- locale: it
+  percentage: 100
+- locale: kn
+  percentage: 100
+- locale: ml
+  percentage: 100
+- locale: mr
+  percentage: 100
+- locale: ms
+  percentage: 100
+- locale: nl
+  percentage: 100
+- locale: or
+  percentage: 100
+- locale: pa
+  percentage: 100
+- locale: pl
+  percentage: 100
+- locale: pt
+  percentage: 100
+- locale: ro
+  percentage: 100
+- locale: ru
+  percentage: 100
+- locale: sv
+  percentage: 100
+- locale: ta
+  percentage: 100
+- locale: te
+  percentage: 100
+- locale: tr
+  percentage: 100
+- locale: uk
+  percentage: 100
+- locale: ur
+  percentage: 100
+- locale: zh
+  percentage: 100
+Releases:
+- version: 1.0.3
+  type: stable
+  unix-timestamp: 1791158400
+  description:
+    C: >-
+      <p>Declare all dependencies required to build and test packages in minimal Ubuntu environments.</p>
+- version: 1.0.2
+  type: stable
+  unix-timestamp: 1791158400
+  description:
+    C: >-
+      <p>Publish signed packages, source archives and checksums through APT, Launchpad and GitHub Releases.</p>
+- version: 1.0.1
+  type: stable
+  unix-timestamp: 1791158400
+  description:
+    C: >-
+      <p>Restore Material Glass when reopening folders and keep its backdrop aligned without animations. Add signed APT and
+      Launchpad release channels.</p>
+- version: 1.0.0
+  type: stable
+  unix-timestamp: 1791072000
+  description:
+    C: >-
+      <p>Initial release with dock folders, app-grid synchronization, window previews, undo, appearance controls and 30 interface
+      languages.</p>
+ContentRating:
+  oars-1.1:
+    violence-cartoon: none
+    violence-fantasy: none
+    violence-realistic: none
+    violence-bloodshed: none
+    violence-sexual: none
+    drugs-alcohol: none
+    drugs-narcotics: none
+    drugs-tobacco: none
+    sex-nudity: none
+    sex-themes: none
+    language-profanity: none
+    language-humor: none
+    language-discrimination: none
+    money-advertising: none
+    money-gambling: none
+    money-purchasing: none
+    social-chat: none
+    social-audio: none
+    social-contacts: none
+    social-info: none
+    social-location: none
+    sex-homosexuality: none
+    sex-prostitution: none
+    sex-adultery: none
+    sex-appearance: none
+    violence-worship: none
+    violence-desecration: none
+    violence-slavery: none

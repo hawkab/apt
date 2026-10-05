@@ -1,0 +1,28 @@
+Package: ubuntu-dock-folders
+Architecture: amd64
+Version: 1.0.3-1ubuntu24.04.1
+Priority: optional
+Section: gnome
+Maintainer: Grigory Olshansky <hwakaba@ya.ru>
+Installed-Size: 3302
+Depends: libadwaita-1-0 (>= 1.0.0), libc6 (>= 2.34), libglib2.0-0t64 (>= 2.40.0), libgtk-4-1 (>= 4.0.0), gnome-shell (>= 46), gnome-shell (<< 47), gnome-shell-extension-ubuntu-dock, librsvg2-common, python3, python3-gi, python3-cairo, python3-gi-cairo, python3-pil, gir1.2-gtk-4.0, gir1.2-adw-1
+Filename: pool/main/u/ubuntu-dock-folders/ubuntu-dock-folders_1.0.3-1ubuntu24.04.1_amd64.deb
+Size: 2500948
+MD5sum: 461b52080d5a3e977ba2120fefc9533d
+SHA1: 8d0048e67b7740be0b6214f1ed68d6cf4394a546
+SHA256: 7967b1c092261407654479fe7db26ca2ca4d0f02cdef2b4f50505743f0c4536f
+SHA512: c37e33b08ef4c58bed0e76aa0321ded99d97b22f9f052ffc5c09c3f4c48759e56b21f47941f1f82358c841a8f237444db4a8b985218f88368f054abec3f2a503
+Homepage: https://github.com/hawkab/ubuntu-dock-folders
+Description: Android-style application folders for Ubuntu Dock
+ Group applications by dragging one dock icon onto another. Reorder them
+ inside folders or move them back to the dock. Each folder shows real
+ application icons and a shared running indicator.
+ .
+ Customize names, labels, colors, transparency and wallpaper. Choose scale
+ or genie animations and optional frosted glass. The interface follows
+ the system language and includes 30 translations.
+ .
+ Requires Ubuntu 24.04 with GNOME Shell 46 and Ubuntu Dock. After installing,
+ run ubuntu-dock-folders enable --ubuntu-settings as your desktop user,
+ then log out and back in.
+
