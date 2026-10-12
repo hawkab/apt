@@ -1,17 +1,17 @@
 Package: ubuntu-dock-folders
 Architecture: amd64
-Version: 1.2.0-1ubuntu24.04.1
+Version: 1.2.1-1ubuntu24.04.1
 Priority: optional
 Section: gnome
-Maintainer: Grigory Olshansky <hwakaba@ya.ru>
-Installed-Size: 9282
+Maintainer: Grigory Olshansky <14372308+hawkab@users.noreply.github.com>
+Installed-Size: 9283
 Depends: gnome-shell (>= 46), gnome-shell (<< 47) | gnome-shell (>= 50), gnome-shell (<< 51), gnome-shell-extension-ubuntu-dock, gjs, python3, python3-gi, python3-cairo, python3-gi-cairo, python3-pil, gir1.2-gtk-4.0, gir1.2-adw-1, libadwaita-1-0 (>= 1.0.0), libc6 (>= 2.34), libglib2.0-0t64 (>= 2.32.0), libgtk-4-1 (>= 4.0.0), libpython3.12t64 (>= 3.12.1)
-Filename: pool/main/u/ubuntu-dock-folders/ubuntu-dock-folders_1.2.0-1ubuntu24.04.1_amd64.deb
-Size: 5772264
-MD5sum: 356626242e90ec43b8b969e7755a9e0c
-SHA1: 4b51c9e89cf4f60c99223b97ce21c34abe184832
-SHA256: f661714f6f5d1b941c37ba7d433433816903630f063801673e7f8bbecaf3906a
-SHA512: 5f1a789929681e1a7c94b4cade66b88d22897be08f43a35fef2bd7fe719cc4148cbc173cfa6d2783d4be9c641c1df4dffabcc2a4f88efc5daa65c717f19034b1
+Filename: pool/main/u/ubuntu-dock-folders/ubuntu-dock-folders_1.2.1-1ubuntu24.04.1_amd64.deb
+Size: 5772506
+MD5sum: 16216cf5225237430d11b1295257a49b
+SHA1: 2c6d5736efd0383d7e542744fa2bd745025d9dcb
+SHA256: 4c2b87bfd528c9dd506e3f758d8d50aeabf64ec525c5e2038deda178eb8bd0ff
+SHA512: 7963d8da97c3187fa45e5993fa642676d1a7548e86ce8ab1d774a9806bbfe05222e6d263df64c8435c514b1899f575baa9a0f62d761a3fa7b810e2e4e843e0a3
 Homepage: https://github.com/hawkab/ubuntu-dock-folders
 Description: Android-style application folders for Ubuntu Dock
  Group applications by dragging one dock icon onto another. Reorder them

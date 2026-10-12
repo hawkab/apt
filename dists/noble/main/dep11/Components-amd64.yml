@@ -427,6 +427,12 @@ Languages:
 - locale: zh
   percentage: 100
 Releases:
+- version: 1.2.1
+  type: stable
+  unix-timestamp: 1791763200
+  description:
+    C: <p>Fix GNOME drag cleanup when a folder is rebuilt. Keep application names
+      when adding launchers to folders.</p>
 - version: 1.2.0
   type: stable
   unix-timestamp: 1791763200
@@ -447,13 +453,6 @@ Releases:
   description:
     C: <p>Open general folder settings directly from each folder, including when Ubuntu
       Settings is already running. Retry temporary Launchpad upload failures.</p>
-- version: 1.1.1
-  type: stable
-  unix-timestamp: 1791158400
-  description:
-    C: <p>Update installation instructions, package descriptions and repository metadata
-      for Ubuntu 26.04 and GNOME Shell 50. Publish PPA packages for both supported
-      Ubuntu versions.</p>
 ContentRating:
   oars-1.1:
     violence-cartoon: none
