@@ -2,13 +2,13 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: noble
 Components: main
-Date: Tue, 13 Oct 2026 20:43:11 +0000
+Date: Tue, 13 Oct 2026 21:59:14 +0000
 Description: Application folders for Ubuntu desktops
 Label: hawkab Ubuntu packages
 Origin: hawkab
 Suite: noble
 MD5Sum:
- 54e622f20b94893aa061e48312fca792             7086 Release
+ 22dccf6b124f51c3b7bb2763dfb98d29             7086 Release
  9d748173b42bec065162ce5058b30b1b             1731 main/binary-amd64/Packages
  2b5285c38cdd463f19a9d925bff9d6ef              984 main/binary-amd64/Packages.gz
  9d41231729a65497eab226f0aeb48b33            24915 main/dep11/Components-amd64.yml
@@ -24,7 +24,7 @@ MD5Sum:
  63bc85a0e973a2d6a0204766a8afb4f9            20480 main/dep11/icons-64x64@2.tar
  8f44545aa92a00dbd4b01baacdc66620            13100 main/dep11/icons-64x64@2.tar.gz
 SHA1:
- 7f7cd851fe68028c3416e44082e1fc84e016af24             7086 Release
+ 576594f698ff4ba61cb0495e576dfe074bb89403             7086 Release
  87fb5dfc4ca0246111273cccfa165fd3d66f4def             1731 main/binary-amd64/Packages
  2c0277d5511ad5197f8b5c1c0accae6d6203fcae              984 main/binary-amd64/Packages.gz
  1e7c6e282e6e4f0d630db0613ea55c5fe772f71a            24915 main/dep11/Components-amd64.yml
@@ -40,7 +40,7 @@ SHA1:
  28d83a30eccec065331017c1697513bacf1dcc6d            20480 main/dep11/icons-64x64@2.tar
  92d54c10e316d66918dc6d9302dc4f740d73b0b8            13100 main/dep11/icons-64x64@2.tar.gz
 SHA256:
- af44050e6080122e9ac28bbcd349f0708bdedba252ad4140ecfa2f3f416745c0             7086 Release
+ 09d28f99ea0e1fb05f8e66ad85d99ebe53642c5f5a87b548d2405247427ef28d             7086 Release
  6543841f9177cf990c06460c1bfe5d20dc5c9ccf43d4d5d094162ed1fa5df34b             1731 main/binary-amd64/Packages
  118eb9f9dd29e6801daa46f5117e62fa10e9634bc7c9bcb1f3814ffa86734bfd              984 main/binary-amd64/Packages.gz
  365e5a56d4f29f2627988572f59fc734578e9f3ddb66c8049be53776a25f0dae            24915 main/dep11/Components-amd64.yml
@@ -56,7 +56,7 @@ SHA256:
  146ec49c4dd57b474ac6e20fba8e561bf4ca382ca2269a69c343cfbedee7baf1            20480 main/dep11/icons-64x64@2.tar
  645f309516c19379b68ead9a3004957128c5c811d51e8c1fcc0f0a9a9469a631            13100 main/dep11/icons-64x64@2.tar.gz
 SHA512:
- c5f109224341e1064c7126e5612a5743f72269a053eb3cedfce8601c7d70eda6ef6cdc9c68c24aaa1feee30313296b4438400451382823f61088da41d0f40ba0             7086 Release
+ 27fcdf89054525a7a934df582fa6b4e4cf693fc75d12a4c397add4c1d488b02ec4bad1744e056944493d6a11cc6858d1bccc37da766e8ce57df9b3c2ae72727e             7086 Release
  b3b7a234c64426ef0a59242c6657a288efcd15563e4742b75a2b41f32f92ba6026b879a3a05e9abff4759f1d615fbbc46af9ad68187278914e758b1bf0725059             1731 main/binary-amd64/Packages
  b3447091a7056abfa34a1ab74921e8dfea6ad89d68247e71645f6deaad0cc296597e879a1a13c4658cdba1207c668883143a1534934796843feb28ba840721f4              984 main/binary-amd64/Packages.gz
  38250f65da8c95efee56d55ec5aa4ce609366333161cfeb9676e47ecbd2e66e789d04b5ddb24a829e97ae8fbe523f26e89da8eee992a9539571101fdc24a80d2            24915 main/dep11/Components-amd64.yml
