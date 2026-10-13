@@ -494,6 +494,12 @@ Languages:
 - locale: zh
   percentage: 100
 Releases:
+- version: 1.2.2
+  type: stable
+  unix-timestamp: 1791849600
+  description:
+    C: <p>Restore application grouping when existing GNOME Dock icons have no folder
+      drop targets.</p>
 - version: 1.2.1
   type: stable
   unix-timestamp: 1791763200
@@ -514,12 +520,6 @@ Releases:
     C: <p>Remove deleted applications from folders at startup and after uninstall.
       Prevent repeated dock rebuilding and clean up incomplete menus when a launcher
       disappears.</p>
-- version: 1.1.2
-  type: stable
-  unix-timestamp: 1791158400
-  description:
-    C: <p>Open general folder settings directly from each folder, including when Ubuntu
-      Settings is already running. Retry temporary Launchpad upload failures.</p>
 ContentRating:
   oars-1.1:
     violence-cartoon: none
