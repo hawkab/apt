@@ -494,6 +494,12 @@ Languages:
 - locale: zh
   percentage: 100
 Releases:
+- version: 1.2.3
+  type: stable
+  unix-timestamp: 1792022400
+  description:
+    C: <p>Keep Chrome PWA windows attached to their launchers after profile changes
+      in GNOME, KDE Plasma and Xfce.</p>
 - version: 1.2.2
   type: stable
   unix-timestamp: 1791849600
@@ -513,13 +519,6 @@ Releases:
     C: <p>Add KDE Plasma and Xfce support on Ubuntu 26.04, with shared folder settings,
       orbit animations and live previews. Reduce CPU and memory use during animation
       and settings changes.</p>
-- version: 1.1.3
-  type: stable
-  unix-timestamp: 1791504000
-  description:
-    C: <p>Remove deleted applications from folders at startup and after uninstall.
-      Prevent repeated dock rebuilding and clean up incomplete menus when a launcher
-      disappears.</p>
 ContentRating:
   oars-1.1:
     violence-cartoon: none
