@@ -494,6 +494,12 @@ Languages:
 - locale: zh
   percentage: 100
 Releases:
+- version: 1.2.4
+  type: stable
+  unix-timestamp: 1794355200
+  description:
+    C: <p>Fix session startup on GNOME desktops managed by systemd. Skip autostart
+      when the package executable has been removed.</p>
 - version: 1.2.3
   type: stable
   unix-timestamp: 1792022400
@@ -512,13 +518,6 @@ Releases:
   description:
     C: <p>Fix GNOME drag cleanup when a folder is rebuilt. Keep application names
       when adding launchers to folders.</p>
-- version: 1.2.0
-  type: stable
-  unix-timestamp: 1791763200
-  description:
-    C: <p>Add KDE Plasma and Xfce support on Ubuntu 26.04, with shared folder settings,
-      orbit animations and live previews. Reduce CPU and memory use during animation
-      and settings changes.</p>
 ContentRating:
   oars-1.1:
     violence-cartoon: none

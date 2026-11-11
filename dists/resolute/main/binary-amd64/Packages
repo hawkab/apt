@@ -1,6 +1,6 @@
 Package: ubuntu-dock-folders
 Architecture: amd64
-Version: 1.2.3-1ubuntu26.04.1
+Version: 1.2.4-1ubuntu26.04.1
 Priority: optional
 Section: x11
 Maintainer: Grigory Olshansky <14372308+hawkab@users.noreply.github.com>
@@ -10,12 +10,12 @@ Depends: libadwaita-1-0 (>= 1.0.0), libc6 (>= 2.34), libepoxy0 (>= 1.0), libgcc-
 Suggests: gnome-shell-extension-ubuntu-dock, plasma-workspace, xfce4-panel
 Conflicts: ubuntu-dock-folders-kwin, ubuntu-dock-folders-kwin-x11
 Replaces: ubuntu-dock-folders-kwin, ubuntu-dock-folders-kwin-x11, ubuntu-dock-folders-xfce
-Filename: pool/main/u/ubuntu-dock-folders/ubuntu-dock-folders_1.2.3-1ubuntu26.04.1_amd64.deb
-Size: 5943896
-MD5sum: 9c43f70aede0710053244c246469c73b
-SHA1: 9907588f2703cf37d5e7c02dc51c19c4a40ad798
-SHA256: bff90ab4ae8ec59867cba80b055139862184ceadddfcdcd890384cd0510f4416
-SHA512: 269b93a3cfbedb657150fbe32fadaa140fd236438578db95ce43717a65804844ee175f9669865cf18ed74ae0284161b01fcd3adfd4c57d138133ab6e582cb4f7
+Filename: pool/main/u/ubuntu-dock-folders/ubuntu-dock-folders_1.2.4-1ubuntu26.04.1_amd64.deb
+Size: 5944112
+MD5sum: 0bff7affd0df82c38fde1fdabd4bc071
+SHA1: 996843c85c63ce08b7d358e4e3d741c2ef613a16
+SHA256: 2366c8544dfcbc0d660380146b7edec4a0076b1729168ec6f4d28accd337455b
+SHA512: 0d15286dd249e87f79057e93ebbd9c88ccb745f185de68be5f57e9f306e8961f869b1494e08187753f972604935432e074638d1eec26b94eac6339275c40e7e5
 Homepage: https://github.com/hawkab/ubuntu-dock-folders
 Description: Application folders for GNOME, KDE Plasma and Xfce
  Group applications by dragging one dock icon onto another. Reorder them
