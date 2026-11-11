@@ -5,13 +5,13 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: noble
 Components: main
-Date: Wed, 11 Nov 2026 14:45:22 +0000
+Date: Wed, 11 Nov 2026 17:50:21 +0000
 Description: Application folders for Ubuntu desktops
 Label: hawkab Ubuntu packages
 Origin: hawkab
 Suite: noble
 MD5Sum:
- 025a5960d67fdb56706005421ab6f2f5             7086 Release
+ 3f878362d989833d958121292ab3fc29             7086 Release
  ab45b92aa2d8b5a722b50869b7aefe85             1731 main/binary-amd64/Packages
  7ed8485054f7a940192b79876acf9b70              985 main/binary-amd64/Packages.gz
  4b4072a0a72d86b2ee91e0e0c0d546f7            24784 main/dep11/Components-amd64.yml
@@ -27,7 +27,7 @@ MD5Sum:
  176eb70722743b9a8930a4e2b52c85f9            20480 main/dep11/icons-64x64@2.tar
  8c817e92688b2fe6197f49be60af7139            13270 main/dep11/icons-64x64@2.tar.gz
 SHA1:
- 602bc3164e57adbafe11616c3a5f9d0a2aa5b38c             7086 Release
+ df606186bf4aac5408cd1d145d98fd6d49d76294             7086 Release
  d40585d7fadcf17e004688b12832785fdab1b890             1731 main/binary-amd64/Packages
  68daa2c4e46ae65657f37683c3f5c59513e5bedb              985 main/binary-amd64/Packages.gz
  5b71110597f76b1c12ea9e0312805685fe980163            24784 main/dep11/Components-amd64.yml
@@ -43,7 +43,7 @@ SHA1:
  e2dd38c28315639a061e8b85a4388e080d9e3ea0            20480 main/dep11/icons-64x64@2.tar
  e33ca413664684e692c53afd2d1158b06397c18a            13270 main/dep11/icons-64x64@2.tar.gz
 SHA256:
- ef3158433fc86c1372720078fee7d47e74fc76564ed022b863c1cf5fcbbb3f05             7086 Release
+ 8152b5223d72264633a0c0a485991ca5152f8a07c81ea2b10e72a0df6a6021f6             7086 Release
  6e75d0a88539899ad0a5f313056816124eebbe24b4c5e76cd67b650f84590e7e             1731 main/binary-amd64/Packages
  532f5c01d726ca7e751fdc276b68605b9dc9a957807d82aa933eab5d8c4ba2a2              985 main/binary-amd64/Packages.gz
  492b32a6c3fdb1c9f849e3eabe870c50392d66812236ba7b1277d9004d66fcd8            24784 main/dep11/Components-amd64.yml
@@ -59,7 +59,7 @@ SHA256:
  f43c3a4a6349e2915944c9f8f0b19a7de94012d0f3b7998d9918ffcc47e391ab            20480 main/dep11/icons-64x64@2.tar
  ededc3b2b14f8de44ae69ae2d65845cac28e48cd1c8ac4c36becb78b08aafa26            13270 main/dep11/icons-64x64@2.tar.gz
 SHA512:
- 1fc657a9468bcf820f63e749bfefd963433cc50b19caecef703d31b1d6e455d96b65d149316fe33789fc99641ba23c07f15bd5a4bef6bbde81982c585eb9f36d             7086 Release
+ 5c40aa46a1966f8800415532438c7645363df3b62c6b4c98c78239eb502a00ea554efca2b46b61ef2a7e431a85c9d0d86ea1f60a39dc6b3f6606624d5ab5a78f             7086 Release
  420a5bb0fa3c2917569841dced3d9650b98f4dfe0ec9edf1bfe3d36e46cb29eabd533c224b2c016e2f4422e247be3cc60fb90557340b0fc0d596e5c9fcd5fb6f             1731 main/binary-amd64/Packages
  c86cd9ecdcaa48b96174c6f1087eec517789adc044488f246bda92007c2d847314e2ea5f6e0b52a8316af7dd85722d305d9d9612d85345c8c5a9a67479a9e897              985 main/binary-amd64/Packages.gz
  0530b8fbf2f5adb269713016271a3cf3a1729cf6bb7d9e3e798d2b742ec94424bd2588a809c04073832317d229fffebcda8a88c18a685a2f8ab7ac6432e1c25b            24784 main/dep11/Components-amd64.yml
@@ -76,15 +76,15 @@ SHA512:
  b4f40af2d2a3f690258d24ee030cb7362decfcd09a2e802e555c922a1eac138b4ea1a77105f862cee96ba989dcdcc784cef2cdea47f4f619b871c8ff84caab4d            13270 main/dep11/icons-64x64@2.tar.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE1P6WSUY3Mg/KJd016U0abZfOIxkFAmr0f4IACgkQ6U0abZfO
-IxkvyQv/UpXysjzT45A5C3Eck13D0xU7U9S7i5GSRSjN6GqGzqU24G/OKs3V9hSi
-dUryw4BQ6nLFyXrmZA7FU9dY5PuRXyCufPVHWmJ1wjI+ltZtpCaj2olwbyfDWaE2
-W0TWp2dr95huc+iykcuCTLTW8i6GI+Wci0gUUnP8c7oY1x5kyJpuAnVhlR4aDqSA
-Ax2zg5W84kW4/7bMck+o2GXtHvsj6kHJAdgQ6f/iiod5x7t/Zh0Xy2Yr50SaYoyU
-bjYuftKqkd8Lq5YEW71V5E0gkT/tSJRmH2f/U5H1oqCPqAJL3Sf+9cdw4rZcbKWX
-UPuE35srn1/ZOfKfRaAxEhsUs8vrzOtZhl9KutiDLswpnPeg49wCmec7lU/Lz9C6
-Bn/A5wYgSK8MRyDOu8RJeR1A815s54QiZckb+55mOiFwS06qEhq9RCllRxAGj94Q
-bLXIir3g4SMcEqAWgbLLuKQBqkZ9stH6DA2Nnes/HezyPiQ2DYI/wjIgO1q42N6E
-UGntuCOE
-=KgfT
+iQGzBAEBCAAdFiEE1P6WSUY3Mg/KJd016U0abZfOIxkFAmr0qt0ACgkQ6U0abZfO
+IxnuVwv8D7qD0qMLQH8uz9rfxboo+kMDXjUhLQqboYPzfAA0NyDr9OwfyRaVvcK7
+HgA2Z7zGijtL2/Eg50vrVAtH6TVz5EyM4RLnF8g7KGTwNu8WXZd8HBwRpMHErHsn
+U74/1qARp0ElTsmZbjAwTvNWgBWpqgMr2mz11CutvmlR/UTEWKPc/YFPn8KqxOJz
+9BjwGCzv0SKVc33vRrl30J4vj9zB5LxXqeMDvcRlsBcM+BZYdv8EuBsWcCs3kDcZ
+ZRxCyiIkVWZIjA5cvzupxeGfm4KDpmTupVkY34g7D/7LrH3NGHMoISXHRfqUSI0u
+BxwD7s+ifwLTCNDg58EFliOs36hGBICHnbcOMr6eKr98ttrim69RbmTGbGRu3t/p
+s/9HurGGXBsywwWHodszMi20hInRjRxFkntEtAXjhcYGbYOZeOlW+DTTi5HsgUEA
+l6ShgZFydN/A2XDzxTIffFH+guZC2WF1kK/RykqIRH0/hXQXXiU7Svj2ve4kh10I
+wwCYOFfc
+=I14m
 -----END PGP SIGNATURE-----
